@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/BUCKY555/BUCKY555.github.io.git
+git push -u origin master
